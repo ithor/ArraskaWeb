@@ -7,3 +7,5 @@ Arraska (Arrasateko Skate Taldea // Arrasate's Skate Team) is a non-profit group
     * Exhibitions
     
 This web would provide a place to meet.
+
+![Arraska](https://lh4.googleusercontent.com/A2T119QxnnRk5hSebzRtEc3BQWP6c2PvrIN4ZbO50SoenJ7RRO8BIblEemidDQ-iOUFeg-0J "Arraska")
