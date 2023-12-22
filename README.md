@@ -1,5 +1,5 @@
 # ArraskaWeb
-Arraska (Arrasateko Skate Taldea // Arrasate's Skate Team) is a non-profit group whose aim is encorage skate on the Basque Country.
+Arraska (Arrasateko Skate Taldea // Arrasate's Skate Team) is a non-profit group whose aim is to encorage skate on the Basque Country.
 
 - Main events are:
     * Skate championships
